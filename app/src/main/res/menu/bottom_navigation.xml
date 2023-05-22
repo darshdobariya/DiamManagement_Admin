@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pass"
+        android:icon="@drawable/working"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Working" />
+
+    <item
+        android:id="@+id/pending"
+        android:icon="@drawable/request"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Request" />
+
+    <item
+        android:id="@+id/reject"
+        android:icon="@drawable/rejected"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Rejected" />
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/deleted"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Deleted" />
+
+</menu>
